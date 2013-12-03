@@ -48,7 +48,7 @@ public class TestFachadaDAO {
 	public void testRemoverListaPalavras() {
 		assertFalse(FachadaDAO.getFachadaDAO().removerListaPalavras("naoExiste"));
 	}
-
+//Erro na compilação da build
 /*	@Test
 	public void testLimparListaPalavras() {
 		FachadaDAO fixture = FachadaDAO.getFachadaDAO();
