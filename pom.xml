@@ -19,7 +19,7 @@
 					<artifactId>coveralls-maven-plugin</artifactId>
 					<version>1.2.0</version>
 					<configuration>
-						<repoToken>NQ0y9evHfChnB1yHlQ1iOQzG726x0H9ZB</repoToken>
+						<repoToken>fjDWyN1rZVPknotCbiSFwbHBfItOyiPLi</repoToken>
 						<instrumentation>
 							<excludes>
 								<exclude>**/Test*.class</exclude>
