@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ezequely/pdsproject.png?branch=master)](https://travis-ci.org/ezequely/pdsproject)   [![Coverage Status](https://coveralls.io/repos/ezequely/pdsproject/badge.png?branch=master)](https://coveralls.io/r/ezequely/pdsproject?branch=master)
+[![Build Status](https://travis-ci.org/Ezequely/PDSProject.png?branch=master)](https://travis-ci.org/Ezequely/PDSProject)   [![Coverage Status](https://coveralls.io/repos/Ezequely/PDSProject/badge.png?branch=master)](https://coveralls.io/r/Ezequely/PDSProject?branch=master)
 
 BombWordsRefactoring
 ====================
