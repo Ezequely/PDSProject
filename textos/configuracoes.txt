@@ -1,0 +1,2 @@
+segundos ate inserir novas bombas:10
+segundos ate uma bomba explodir:20

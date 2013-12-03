@@ -1,0 +1,11 @@
+language: java
+jdk:
+  - oraclejdk7
+  #- openjdk7
+
+  
+script: 
+  - mvn install -DskipTests=false
+
+after_success:
+  - mvn clean cobertura:cobertura coveralls:cobertura
