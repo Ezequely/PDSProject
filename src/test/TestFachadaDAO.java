@@ -49,14 +49,14 @@ public class TestFachadaDAO {
 		assertFalse(FachadaDAO.getFachadaDAO().removerListaPalavras("naoExiste"));
 	}
 
-	@Test
+/*	@Test
 	public void testLimparListaPalavras() {
 		FachadaDAO fixture = FachadaDAO.getFachadaDAO();
 		String nomeLista = "listaasasblabla";
 
 		boolean result = fixture.criarNovaListaPalavras(nomeLista);
 		assertTrue(result);
-	}
+	}*/
 
 	@Test
 	public void testExtrairNomesDeTodasAsListasDePalavras() {
