@@ -23,7 +23,7 @@ public class MainTest
 			try {
 				Thread.sleep(1000);
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
+				
 				e.printStackTrace();
 			}
 			nomeJogador = telaInicial.getNomeJogador();
